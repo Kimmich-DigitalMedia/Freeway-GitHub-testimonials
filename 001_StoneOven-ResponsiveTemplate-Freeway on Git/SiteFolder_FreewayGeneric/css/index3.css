@@ -1,0 +1,4 @@
+body { font-family:Arial,Helvetica,sans-serif; font-size:62.5%; margin:0px; background-image:url(../Resources/bg-a.png); height:100% }
+html { height:100% }
+#PageDiv { position:relative; min-height:100% }
+#supersized-wrapper { position:relative; width:100%; z-index:0 }

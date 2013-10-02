@@ -1,0 +1,35 @@
+#supersized.f-ms { position:relative; width:100%; z-index:0 }
+#wrapper.f-ms { position:relative; width:100%; z-index:10; background-image:url(../Resources/bg-overlay-patter.png) }
+#section-header.f-ms { position:relative; width:100%; z-index:50; background-color:#800000; background-image:url(../Resources/bg-header-contain.png); background-repeat:repeat-x }
+#subsection-topbar.f-ms { position:relative; width:100%; height:50px; z-index:0; clear:both; overflow:hidden }
+#subsection-logo.f-ms { position:relative; width:100%; z-index:0; clear:both }
+#area-logo.f-ms { position:relative; width:275px; height:147px; z-index:0; margin-left:auto; margin-right:auto }
+#company-logo.f-ms { position:absolute; left:0px; top:-50px; width:274px; height:196px; z-index:1 }
+#subsection-navigation.f-ms { position:relative; width:100%; height:75px; z-index:99; clear:both; background-image:url(../Resources/bg-menu.png); background-repeat:repeat-x; background-position:left bottom }
+#area-navigation.f-ms { position:relative; width:75%; height:76px; z-index:0; margin-left:auto; margin-right:auto }
+#area-navigation-mobile.f-ms { position:relative; width:75%; height:76px; z-index:99; margin-left:auto; margin-right:auto }
+#section-canvas.f-ms { position:relative; width:100%; z-index:0; margin-top:590px; background-color:#800000; background-image:url(../Resources/bg-content.png); background-repeat:repeat-x }
+#area-canvas.f-ms { position:relative; width:75%; z-index:0; margin-left:auto; margin-right:auto }
+#module-top-box.f-ms { position:relative; float:left; width:100%; z-index:0; margin:-190px 0px 0px }
+#grid-box-13-1.f-ms { position:relative; float:left; width:33.333333%; z-index:0; padding-right:10px; padding-bottom:20px }
+#the-box-col1.f-ms { position:relative; width:100%; z-index:0 }
+#box-1-header.f-ms { position:relative; width:100%; height:45px; z-index:0; background-color:#dfba69; overflow:hidden }
+#box-1-image.f-ms { position:relative; width:100%; height:145px; z-index:0; background-image:url(../Resources/oven-1.jpg); background-repeat:no-repeat; background-position:center bottom; overflow:hidden }
+#box-1-excerpt.f-ms { position:relative; width:100%; height:100px; z-index:0; margin-top:5px; background-color:#eee; overflow:hidden }
+#grid-box-13-2.f-ms { position:relative; float:left; width:33.333333%; z-index:0; padding-left:10px; padding-right:10px; padding-bottom:20px }
+#the-box-col2.f-ms { position:relative; width:100%; z-index:0 }
+#box-2-header.f-ms { position:relative; width:100%; height:45px; z-index:0; background-color:#dfba69; overflow:hidden }
+#box-2-image.f-ms { position:relative; width:100%; height:145px; z-index:0; background-color:#ffffba; background-image:url(../Resources/restaurant_1.jpg); background-position:center; overflow:hidden }
+#box-2-excerpt.f-ms { position:relative; width:100%; height:100px; z-index:0; margin-top:5px; background-color:#eee; overflow:hidden }
+#grid-box-13-3.f-ms { position:relative; float:left; width:33.333333%; z-index:0; padding-left:10px; padding-bottom:20px }
+#the-box-col3.f-ms { position:relative; width:100%; z-index:0 }
+#box-3-header.f-ms { position:relative; width:100%; height:45px; z-index:0; background-color:#dfba69; overflow:hidden }
+#box-3-image.f-ms { position:relative; width:100%; height:145px; z-index:0; background-color:#ffffba; background-image:url(../Resources/cooks-1.jpg); background-position:center; overflow:hidden }
+#box-3-excerpt.f-ms { position:relative; width:100%; height:100px; z-index:0; margin-top:5px; background-color:#eee; overflow:hidden }
+#module-list-posts.f-ms { position:relative; width:100%; height:109px; z-index:0; clear:both; overflow:hidden }
+#section-widget-footer.f-ms { position:relative; width:100%; z-index:0; background-color:#800000; background-image:url(../Resources/bg-widget-area-fo.png); background-repeat:repeat-x }
+#area-widget-footer.f-ms { position:relative; width:75%; height:250px; z-index:0; margin-left:auto; margin-right:auto; overflow:hidden }
+#section-footer.f-ms { position:relative; width:100%; z-index:0; background-color:#800000; background-image:url(../Resources/bg-footer.png); background-repeat:repeat-x }
+#area-footer.f-ms { position:relative; width:75%; height:250px; z-index:0; margin-left:auto; margin-right:auto; overflow:hidden }
+#bottom-spacer.f-ms { position:relative; width:100%; z-index:0; background-image:url(../Resources/bg-footer.png); background-repeat:repeat-x }
+#copyright-line.f-ms { position:relative; width:75%; z-index:0; padding-top:10px; padding-bottom:10px; margin-left:auto; margin-right:auto }
