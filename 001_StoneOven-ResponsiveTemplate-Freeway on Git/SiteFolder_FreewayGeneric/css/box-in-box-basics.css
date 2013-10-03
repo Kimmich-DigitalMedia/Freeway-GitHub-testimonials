@@ -13,6 +13,7 @@ td { padding:0px }
 #fwNav2 .fwNavItem a:hover, #fwNav2 .fwNavItem span a:hover, #fwNav2 .fwNavItem a:focus { border-bottom:5px solid #DFBA69; -moz-transition:all .5s ease; -webkit-transition:all .5s ease; transition:all .5s ease }
 * { box-sizing:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box }
 .bg-overlay-pattern { background-image:url("../Resources/bg-overlay-patter.png") }
+.bg-size { background-size:cover }
 .fwNavContainer1 { width:100% !important }
 .fwNavContainer2 { width:100% !important }
 .group { *zoom:1 }
