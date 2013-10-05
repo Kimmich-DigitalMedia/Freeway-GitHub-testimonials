@@ -4,7 +4,7 @@
 #subsection-logo.f-ms { position:relative; width:100%; z-index:0; clear:both }
 #area-logo.f-ms { position:relative; width:275px; height:147px; z-index:0; margin-left:auto; margin-right:auto }
 #company-logo.f-ms { position:absolute; left:0px; top:-50px; width:274px; height:196px; z-index:1 }
-#subsection-navigation.f-ms { position:relative; width:100%; height:75px; z-index:99; clear:both; background-image:url(../Resources/bg-menu.png); background-repeat:repeat-x; background-position:left bottom }
+#subsection-navigation.f-ms { position:relative; width:100%; z-index:99; clear:both; background-image:url(../Resources/bg-menu.png); background-repeat:repeat-x; background-position:left bottom }
 #area-navigation.f-ms { position:relative; width:75%; height:76px; z-index:0; margin-left:auto; margin-right:auto }
 #area-navigation-mobile.f-ms { position:relative; width:75%; height:76px; z-index:0; margin-left:auto; margin-right:auto }
 #section-canvas.f-ms { position:relative; width:100%; z-index:0; margin-top:590px; background-color:#800000; background-image:url(../Resources/bg-content.png); background-repeat:repeat-x }
